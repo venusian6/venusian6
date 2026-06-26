@@ -1,114 +1,78 @@
-```markdown
-<div align="center">
+```md
+═══════════════════════════════════════════════════════════════════════
 
-# Vivek Sharma
+# 👋 Hi, I'm Vivek Sharma
 
 ### ☁️ Cloud & DevOps Engineer
 
-AWS • Kubernetes • Docker • Terraform • Linux • CI/CD
+AWS • Docker • Kubernetes • Terraform • Linux • CI/CD
 
----
+═══════════════════════════════════════════════════════════════════════
 
-**AWS Certified Solutions Architect – Associate** • **RHCSA Certified**
+🚀 Building cloud-native applications, DevOps solutions, and infrastructure automation.
 
-Building cloud-native applications, DevOps solutions, and infrastructure automation.
+🏆 AWS Certified Solutions Architect – Associate
 
-📍 Ahmedabad, India
+🐧 Red Hat Certified System Administrator (RHCSA)
 
-</div>
+📍 Ahmedabad, Gujarat, India
 
----
+═══════════════════════════════════════════════════════════════════════
 
-## 🚀 About
+## 🚀 Current Focus
 
-I'm passionate about building scalable cloud infrastructure, automating deployments, and improving application reliability.
+• Enterprise Blogging Platform
 
-Currently working on production-ready DevOps projects while expanding my expertise in Cloud Engineering, Kubernetes, Platform Engineering, and Site Reliability.
+• Cloud Cost Analyzer
 
----
+• Kubernetes Monitoring Platform
+
+• Terraform Infrastructure
+
+═══════════════════════════════════════════════════════════════════════
 
 ## 💻 Tech Stack
 
-### ☁️ Cloud
-`AWS` `EC2` `IAM` `VPC` `S3` `EKS` `Lambda` `CloudWatch`
+☁️ Cloud
+AWS • GCP
 
-### 📦 Containers & Orchestration
-`Docker` `Docker Compose` `Kubernetes`
+📦 Containers
+Docker • Kubernetes • Docker Compose
 
-### ⚙️ DevOps
-`Jenkins` `GitHub Actions` `Terraform` `Ansible`
+⚙️ DevOps
+Jenkins • GitHub Actions • Terraform • Ansible
 
-### 🐧 Linux
-`RHEL` `Ubuntu` `CentOS` `Bash`
+🐧 Linux
+RHEL • Ubuntu • CentOS • Bash
 
-### 💻 Development
-`Node.js` `Express.js` `React` `JavaScript`
+💻 Development
+Node.js • Express • React • JavaScript
 
-### 🗄️ Database
-`PostgreSQL` `MySQL`
+🗄️ Database
+PostgreSQL • MySQL
 
-### 📊 Monitoring
-`Prometheus` `Grafana`
+📊 Monitoring
+Prometheus • Grafana • CloudWatch
 
----
+═══════════════════════════════════════════════════════════════════════
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-### 🌐 Enterprise Blogging Platform
+🌐 Enterprise Blogging Platform
 
-Production-ready blogging platform with Docker, PostgreSQL, JWT Authentication, GitHub Actions, and Nginx.
+☁️ Cloud Cost Analyzer
 
-➡️ Coming Soon
+☸️ Kubernetes Monitoring Platform
 
----
+⚙️ Terraform AWS Infrastructure
 
-### ☁️ Cloud Cost Analyzer
-
-Cloud optimization platform that identifies idle resources and recommends cost savings.
-
-➡️ Coming Soon
-
----
-
-### ☸️ Kubernetes Monitoring Platform
-
-Production-style Kubernetes deployment with Prometheus and Grafana monitoring.
-
-➡️ Coming Soon
-
----
-
-### ⚙️ Terraform AWS Infrastructure
-
-Reusable Infrastructure as Code modules for AWS.
-
-➡️ Coming Soon
-
----
-
-## 📚 Currently Learning
-
-- Kubernetes
-- Platform Engineering
-- GitOps
-- Observability
-- AWS
-- DevSecOps
-
----
+═══════════════════════════════════════════════════════════════════════
 
 ## 📫 Connect
 
-📧 **vivektheviperrockss@gmail.com**
+📧 vivektheviperrockss@gmail.com
 
-💼 **LinkedIn**
+💼 linkedin.com/in/vivek-s-8207321a2
 
-https://linkedin.com/in/vivek-s-8207321a2
-
----
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+═══════════════════════════════════════════════════════════════════════
 ```
