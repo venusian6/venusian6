@@ -1,78 +1,47 @@
 ```md
-═══════════════════════════════════════════════════════════════════════
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│                    👋 Vivek Sharma                            │
+│                                                               │
+│              Cloud • DevOps • Platform Engineer               │
+│                                                               │
+│      AWS | Docker | Kubernetes | Terraform | Linux           │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 
-# 👋 Hi, I'm Vivek Sharma
+## 🚀 Current Projects
 
-### ☁️ Cloud & DevOps Engineer
+├── 🌐 Enterprise Blogging Platform
 
-AWS • Docker • Kubernetes • Terraform • Linux • CI/CD
+├── ☁️ Cloud Cost Analyzer
 
-═══════════════════════════════════════════════════════════════════════
+├── ☸️ Kubernetes Monitoring Platform
 
-🚀 Building cloud-native applications, DevOps solutions, and infrastructure automation.
+└── ⚙️ Terraform AWS Infrastructure
 
-🏆 AWS Certified Solutions Architect – Associate
+──────────────────────────────────────────────────────────────────
 
-🐧 Red Hat Certified System Administrator (RHCSA)
+## 💻 Skills
 
-📍 Ahmedabad, Gujarat, India
+Cloud            AWS • GCP
 
-═══════════════════════════════════════════════════════════════════════
+Containers       Docker • Kubernetes
 
-## 🚀 Current Focus
+Automation       Terraform • Ansible
 
-• Enterprise Blogging Platform
+CI/CD            Jenkins • GitHub Actions
 
-• Cloud Cost Analyzer
+Programming      Bash • Python • Node.js
 
-• Kubernetes Monitoring Platform
+Frontend         React • Tailwind
 
-• Terraform Infrastructure
+Database         PostgreSQL • MySQL
 
-═══════════════════════════════════════════════════════════════════════
+Monitoring       Prometheus • Grafana
 
-## 💻 Tech Stack
-
-☁️ Cloud
-AWS • GCP
-
-📦 Containers
-Docker • Kubernetes • Docker Compose
-
-⚙️ DevOps
-Jenkins • GitHub Actions • Terraform • Ansible
-
-🐧 Linux
-RHEL • Ubuntu • CentOS • Bash
-
-💻 Development
-Node.js • Express • React • JavaScript
-
-🗄️ Database
-PostgreSQL • MySQL
-
-📊 Monitoring
-Prometheus • Grafana • CloudWatch
-
-═══════════════════════════════════════════════════════════════════════
-
-## 📌 Featured Projects
-
-🌐 Enterprise Blogging Platform
-
-☁️ Cloud Cost Analyzer
-
-☸️ Kubernetes Monitoring Platform
-
-⚙️ Terraform AWS Infrastructure
-
-═══════════════════════════════════════════════════════════════════════
-
-## 📫 Connect
+──────────────────────────────────────────────────────────────────
 
 📧 vivektheviperrockss@gmail.com
 
 💼 linkedin.com/in/vivek-s-8207321a2
-
-═══════════════════════════════════════════════════════════════════════
 ```
