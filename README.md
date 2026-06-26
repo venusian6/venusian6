@@ -1,45 +1,92 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                 VIVEK SHARMA
+# 👋 VIVEK SHARMA
 
-        Cloud • DevOps • Platform Engineering
+### ☁️ Cloud • DevOps • Platform Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**AWS Certified Solutions Architect – Associate** • **RHCSA**
 
-☁️ AWS Certified SAA
+> Building scalable cloud infrastructure, DevOps automation, and full-stack applications.
 
-🐧 RHCSA Certified
+📍 Ahmedabad, India
 
-🚀 Building Cloud Infrastructure & DevOps Solutions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## ⚡ TECH STACK
 
-Tech
+☁️ **Cloud**
+AWS • EC2 • IAM • VPC • S3 • Lambda • EKS • CloudWatch • GCP
 
-AWS • Docker • Kubernetes • Terraform
+📦 **Containers & Orchestration**
+Docker • Docker Compose • Kubernetes
 
-Linux • Bash • GitHub Actions • Jenkins
+⚙️ **DevOps & Automation**
+Jenkins • GitHub Actions • Terraform • Ansible
 
-Node.js • React • PostgreSQL
+🐧 **Operating Systems**
+Linux (RHEL • Ubuntu • CentOS)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 **Backend**
+Node.js • Express.js • Python • REST APIs
 
-Projects
+🎨 **Frontend**
+React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-▸ Enterprise Blogging Platform
+🗄️ **Databases**
+PostgreSQL • MySQL
 
-▸ Cloud Cost Analyzer
+📈 **Monitoring**
+Prometheus • Grafana • CloudWatch
 
-▸ Kubernetes Monitoring Platform
+🔀 **Version Control**
+Git • GitHub • GitLab
 
-▸ Terraform AWS Infrastructure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 CURRENTLY BUILDING
 
-Connect
+🌐 Enterprise Blogging Platform
+
+☁️ Cloud Cost Analyzer (SaaS)
+
+☸️ Kubernetes Monitoring Platform
+
+⚙️ Terraform AWS Infrastructure
+
+🐧 Linux Automation Toolkit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📌 FEATURED REPOSITORIES
+
+⭐ Enterprise Blogging Platform
+
+⭐ Cloud Cost Analyzer
+
+⭐ Terraform AWS Infrastructure
+
+⭐ Kubernetes Monitoring Platform
+
+⭐ Linux Automation Toolkit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 INTERESTS
+
+Cloud Computing • DevOps • Platform Engineering • Kubernetes • Linux • Infrastructure as Code • Automation • CI/CD • Observability
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📫 CONNECT
 
 📧 Email
+vivektheviperrockss@gmail.com
 
 💼 LinkedIn
+linkedin.com/in/vivek-s-8207321a2
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> **"Automate repetitive work. Build reliable systems. Keep learning."**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
