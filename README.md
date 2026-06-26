@@ -1,79 +1,53 @@
-```md
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 👋 Hi, I'm Vivek Sharma
+# 👋 VIVEK SHARMA
 
-### ☁️ Cloud • DevOps • Platform Engineer
+### ☁️ Cloud • DevOps • Platform Engineering
 
-**AWS Certified Solutions Architect – Associate** • **RHCSA Certified**
+**AWS Certified Solutions Architect – Associate** • **RHCSA**
 
-> Building scalable cloud infrastructure, DevOps automation, and cloud-native applications.
+> Building scalable cloud infrastructure, DevOps automation, and full-stack applications.
 
-📍 Ahmedabad, Gujarat, India
+📍 Ahmedabad, India
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚡ Tech Stack
+## ⚡ TECH STACK
 
 ☁️ **Cloud**
-
 AWS • EC2 • IAM • VPC • S3 • Lambda • EKS • CloudWatch • GCP
 
----
-
 📦 **Containers & Orchestration**
-
 Docker • Docker Compose • Kubernetes
 
----
-
 ⚙️ **DevOps & Automation**
-
-Terraform • Jenkins • GitHub Actions • Ansible
-
----
+Jenkins • GitHub Actions • Terraform • Ansible
 
 🐧 **Operating Systems**
-
 Linux (RHEL • Ubuntu • CentOS)
 
----
-
-💻 **Programming**
-
-Python • Bash • JavaScript • Node.js • Express.js
-
----
+💻 **Backend**
+Node.js • Express.js • Python • REST APIs
 
 🎨 **Frontend**
-
-React • HTML5 • CSS3 • Tailwind CSS
-
----
+React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
 🗄️ **Databases**
-
 PostgreSQL • MySQL
 
----
-
 📈 **Monitoring**
-
 Prometheus • Grafana • CloudWatch
 
----
-
 🔀 **Version Control**
-
 Git • GitHub • GitLab
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🚀 Current Projects
+## 🚀 CURRENTLY BUILDING
 
 🌐 Enterprise Blogging Platform
 
-☁️ Cloud Cost Analyzer
+☁️ Cloud Cost Analyzer (SaaS)
 
 ☸️ Kubernetes Monitoring Platform
 
@@ -83,7 +57,7 @@ Git • GitHub • GitLab
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📌 Featured Repositories
+## 📌 FEATURED REPOSITORIES
 
 ⭐ Enterprise Blogging Platform
 
@@ -97,25 +71,22 @@ Git • GitHub • GitLab
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🎯 Areas of Interest
+## 🎯 INTERESTS
 
 Cloud Computing • DevOps • Platform Engineering • Kubernetes • Linux • Infrastructure as Code • Automation • CI/CD • Observability
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📫 Connect
+## 📫 CONNECT
 
-📧 **Email**
-
+📧 Email
 vivektheviperrockss@gmail.com
 
-💼 **LinkedIn**
-
+💼 LinkedIn
 linkedin.com/in/vivek-s-8207321a2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> **"Automate repetitive work. Build reliable systems. Never stop learning."**
+> **"Automate repetitive work. Build reliable systems. Keep learning."**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
