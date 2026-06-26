@@ -1,47 +1,45 @@
-```md
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                    👋 Vivek Sharma                            │
-│                                                               │
-│              Cloud • DevOps • Platform Engineer               │
-│                                                               │
-│      AWS | Docker | Kubernetes | Terraform | Linux           │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🚀 Current Projects
+                 VIVEK SHARMA
 
-├── 🌐 Enterprise Blogging Platform
+        Cloud • DevOps • Platform Engineering
 
-├── ☁️ Cloud Cost Analyzer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-├── ☸️ Kubernetes Monitoring Platform
+☁️ AWS Certified SAA
 
-└── ⚙️ Terraform AWS Infrastructure
+🐧 RHCSA Certified
 
-──────────────────────────────────────────────────────────────────
+🚀 Building Cloud Infrastructure & DevOps Solutions
 
-## 💻 Skills
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Cloud            AWS • GCP
+Tech
 
-Containers       Docker • Kubernetes
+AWS • Docker • Kubernetes • Terraform
 
-Automation       Terraform • Ansible
+Linux • Bash • GitHub Actions • Jenkins
 
-CI/CD            Jenkins • GitHub Actions
+Node.js • React • PostgreSQL
 
-Programming      Bash • Python • Node.js
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Frontend         React • Tailwind
+Projects
 
-Database         PostgreSQL • MySQL
+▸ Enterprise Blogging Platform
 
-Monitoring       Prometheus • Grafana
+▸ Cloud Cost Analyzer
 
-──────────────────────────────────────────────────────────────────
+▸ Kubernetes Monitoring Platform
 
-📧 vivektheviperrockss@gmail.com
+▸ Terraform AWS Infrastructure
 
-💼 linkedin.com/in/vivek-s-8207321a2
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Connect
+
+📧 Email
+
+💼 LinkedIn
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
