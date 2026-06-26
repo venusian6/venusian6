@@ -1,208 +1,114 @@
-# Hi, I'm Vivek Sharma 👋
+```markdown
+<div align="center">
 
-## Cloud & DevOps Engineer | Linux & Middleware Support Engineer
+# Vivek Sharma
 
-AWS Certified Solutions Architect – Associate | RHCSA Certified
+### ☁️ Cloud & DevOps Engineer
 
-I'm a Cloud & DevOps Engineer with professional experience supporting enterprise middleware environments and a passion for building reliable, automated, and scalable systems.
-
-My background combines Linux administration, middleware support, cloud infrastructure, DevOps automation, and full-stack development. I enjoy solving operational challenges, improving deployment workflows, and learning modern cloud-native technologies.
-
----
-
-# 👨‍💻 About Me
-
-* 💼 Application Middleware Support Engineer
-* ☁️ AWS Certified Solutions Architect – Associate
-* 🐧 Red Hat Certified System Administrator (RHCSA)
-* 🔧 Building cloud infrastructure with AWS, Terraform, Docker & Kubernetes
-* 🚀 Passionate about DevOps, Platform Engineering, Cloud, Linux and Automation
-* 📍 Ahmedabad, Gujarat, India
+AWS • Kubernetes • Docker • Terraform • Linux • CI/CD
 
 ---
 
-# 🚀 Currently Working On
+**AWS Certified Solutions Architect – Associate** • **RHCSA Certified**
 
-* Enterprise Blogging Platform
-* Cloud Cost Analyzer (AWS)
-* Kubernetes Monitoring Platform
-* Terraform Infrastructure Modules
-* Linux Automation Toolkit
-* CI/CD using GitHub Actions & Jenkins
+Building cloud-native applications, DevOps solutions, and infrastructure automation.
 
----
+📍 Ahmedabad, India
 
-# 🛠️ Tech Stack
-
-### Cloud
-
-* AWS (EC2, IAM, VPC, S3, Lambda, EKS, CloudWatch)
-
-### Containers
-
-* Docker
-* Docker Compose
-* Kubernetes
-
-### CI/CD
-
-* Jenkins
-* GitHub Actions
-
-### Infrastructure as Code
-
-* Terraform
-* Ansible
-
-### Operating Systems
-
-* Linux (RHEL, Ubuntu, CentOS)
-* Windows Server
-
-### Programming
-
-* Bash
-* Python
-* JavaScript
-* Node.js
-* Express.js
-
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### Database
-
-* PostgreSQL
-* MySQL
-
-### Monitoring
-
-* Prometheus
-* Grafana
-* CloudWatch
-
-### Version Control
-
-* Git
-* GitHub
-* GitLab
+</div>
 
 ---
 
-# 📂 Featured Projects
+## 🚀 About
 
-## 🌐 Enterprise Blogging Platform with DevOps Automation
+I'm passionate about building scalable cloud infrastructure, automating deployments, and improving application reliability.
 
-Production-style blogging platform built using React, Node.js, Express.js, PostgreSQL, Docker, GitHub Actions and Nginx.
-
-**Highlights**
-
-* JWT Authentication
-* Role-Based Access Control
-* REST APIs
-* Docker & Docker Compose
-* GitHub Actions
-* Nginx Reverse Proxy
-* PostgreSQL
-* Markdown Support
-
-Repository:
-https://github.com/YOUR_USERNAME/enterprise-blog-platform
+Currently working on production-ready DevOps projects while expanding my expertise in Cloud Engineering, Kubernetes, Platform Engineering, and Site Reliability.
 
 ---
 
-## ☁️ Cloud Cost Analyzer (In Progress)
+## 💻 Tech Stack
 
-A cloud optimization platform that analyzes AWS infrastructure and recommends cost-saving opportunities.
+### ☁️ Cloud
+`AWS` `EC2` `IAM` `VPC` `S3` `EKS` `Lambda` `CloudWatch`
 
-**Planned Features**
+### 📦 Containers & Orchestration
+`Docker` `Docker Compose` `Kubernetes`
 
-* Idle EC2 Detection
-* Unused EBS Volumes
-* Snapshot Cleanup
-* S3 Lifecycle Recommendations
-* AWS Cost Explorer Integration
-* Interactive Dashboard
-* PDF Reports
+### ⚙️ DevOps
+`Jenkins` `GitHub Actions` `Terraform` `Ansible`
 
-Repository:
-https://github.com/YOUR_USERNAME/cloud-cost-analyzer
+### 🐧 Linux
+`RHEL` `Ubuntu` `CentOS` `Bash`
 
----
+### 💻 Development
+`Node.js` `Express.js` `React` `JavaScript`
 
-## ⚙️ Terraform AWS Infrastructure
+### 🗄️ Database
+`PostgreSQL` `MySQL`
 
-Infrastructure as Code project demonstrating automated AWS provisioning using Terraform.
-
-**Highlights**
-
-* Modular Terraform
-* VPC
-* EC2
-* IAM
-* RDS
-* S3 Backend
-* DynamoDB State Locking
-
-Repository:
-https://github.com/YOUR_USERNAME/terraform-aws-infrastructure
+### 📊 Monitoring
+`Prometheus` `Grafana`
 
 ---
 
-## ☸️ Kubernetes Monitoring Platform
+# 📌 Featured Projects
 
-Container orchestration and monitoring using Kubernetes, Prometheus and Grafana.
+### 🌐 Enterprise Blogging Platform
 
-**Highlights**
+Production-ready blogging platform with Docker, PostgreSQL, JWT Authentication, GitHub Actions, and Nginx.
 
-* Kubernetes Deployments
-* Services
-* ConfigMaps
-* Prometheus
-* Grafana
-* Ingress
-* Monitoring Dashboards
-
-Repository:
-https://github.com/YOUR_USERNAME/kubernetes-monitoring-platform
+➡️ Coming Soon
 
 ---
 
-# 📜 Certifications
+### ☁️ Cloud Cost Analyzer
 
-* AWS Certified Solutions Architect – Associate
-* Red Hat Certified System Administrator (RHCSA)
+Cloud optimization platform that identifies idle resources and recommends cost savings.
 
----
-
-# 🎯 Career Goal
-
-I'm looking for opportunities where I can contribute as a:
-
-* DevOps Engineer
-* Cloud Engineer
-* Linux Engineer
-* Site Reliability Engineer (SRE)
-* Platform Engineer
-
-while continuously improving my skills in cloud infrastructure, automation, Kubernetes, observability, and modern DevOps practices.
+➡️ Coming Soon
 
 ---
 
-# 📫 Connect With Me
+### ☸️ Kubernetes Monitoring Platform
 
-📧 Email: [vivektheviperrockss@gmail.com](mailto:vivektheviperrockss@gmail.com)
+Production-style Kubernetes deployment with Prometheus and Grafana monitoring.
 
-💼 LinkedIn:
+➡️ Coming Soon
+
+---
+
+### ⚙️ Terraform AWS Infrastructure
+
+Reusable Infrastructure as Code modules for AWS.
+
+➡️ Coming Soon
+
+---
+
+## 📚 Currently Learning
+
+- Kubernetes
+- Platform Engineering
+- GitOps
+- Observability
+- AWS
+- DevSecOps
+
+---
+
+## 📫 Connect
+
+📧 **vivektheviperrockss@gmail.com**
+
+💼 **LinkedIn**
+
 https://linkedin.com/in/vivek-s-8207321a2
 
-🌐 Portfolio:
-Coming Soon
-
 ---
+<div align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### ⭐ Thanks for visiting my profile!
+
+</div>
+```
